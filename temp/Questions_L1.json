@@ -1,0 +1,370 @@
+{
+    "metadata": {
+        "generated_at": "2024-11-30T07:47:58.854698",
+        "total_questions": 30,
+        "book_title": "Project Management Professional Guide",
+        "tool_used": "GPT-4"
+    },
+    "questions": [
+        {
+            "question": "Which of the following is NOT a characteristic of a project as defined in the given context?",
+            "options": [
+                "A) Projects have a clearly defined start and end time",
+                "B) Projects entail a group of inter-related activities",
+                "C) Projects result are similar to results of other functions of the organization",
+                "D) Each task within a project has a planned completion date"
+            ],
+            "correct_answer": "C) Projects result are similar to results of other functions of the organization",
+            "page_number": 1,
+            "topic": "Project"
+        },
+        {
+            "question": "What accurately defines the purpose of project planning?",
+            "options": [
+                "A) It ensures the project has an indefinite start date and end date",
+                "B) It's to carry out the project without any set goals",
+                "C) It's to define each major task, estimate the time and resources required and provide a framework for management review and control",
+                "D) It guarantees every project to be identical to each other"
+            ],
+            "correct_answer": "C) It's to define each major task, estimate the time and resources required and provide a framework for management review and control",
+            "page_number": 2,
+            "topic": "Project"
+        },
+        {
+            "question": "What is a project plan in the context of project planning and management?",
+            "options": [
+                "A) A finalized document that doesn't change",
+                "B) A document that only lists tasks to be performed",
+                "C) A textual document with many details",
+                "D) A formal, approved document that is used to manage and control a project, and is expected to change over time"
+            ],
+            "correct_answer": "D) A formal, approved document that is used to manage and control a project, and is expected to change over time",
+            "page_number": 3,
+            "topic": "Project"
+        },
+        {
+            "question": "Which of the following accurately defines a project?",
+            "options": [
+                "A) It is an indefinite process without a clear end date.",
+                "B) It is an effort of random activities with no unique purpose.",
+                "C) It is a group of inter-related activities, constrained by time, cost, and scope, designed to deliver a unique purpose.",
+                "D) It is a permanent endeavor undertaken to create a repeated product or service."
+            ],
+            "correct_answer": "C",
+            "page_number": 1,
+            "topic": "Planning"
+        },
+        {
+            "question": "What are the key characteristics of a project?",
+            "options": [
+                "A) An ongoing effort with an indefinite completion date",
+                "B) A unique effort with defined start and end dates, specific goals, limited resources and a designated manager",
+                "C) An effort with limitless resources",
+                "D) A routine task performed on a daily basis"
+            ],
+            "correct_answer": "B) A unique effort with defined start and end dates, specific goals, limited resources and a designated manager",
+            "page_number": 2,
+            "topic": "Planning"
+        },
+        {
+            "question": "What is the purpose of a project plan in the planning process of a project?",
+            "options": [
+                "A) To provide a verbose textual document",
+                "B) To remain unchanged throughout the project",
+                "C) To manage and control a project",
+                "D) To define the resources required for each task"
+            ],
+            "correct_answer": "C) To manage and control a project",
+            "page_number": 3,
+            "topic": "Planning"
+        },
+        {
+            "question": "Which of the following best describes a project according to the provided context?",
+            "options": [
+                "A) A project is a permanent effort with undefined time frame designed to accomplish a general goal.",
+                "B) A project is a unique endeavor of sequential activities constrained by time, cost, and scope.",
+                "C) A project is a process that produces unquantifiable deliverables.",
+                "D) A project is an ongoing effort with no specific end date and a flexible budget."
+            ],
+            "correct_answer": "B) A project is a unique endeavor of sequential activities constrained by time, cost, and scope.",
+            "page_number": 1,
+            "topic": "Management"
+        },
+        {
+            "question": "What are the key characteristics of a project?",
+            "options": [
+                "A) No defined boundaries, uses infinite resources, and has no distinct start and end date",
+                "B) Has well defined boundaries, uses finite resources, and has distinct start and end dates",
+                "C) Always meets its expected completion date",
+                "D) Has unlimited resources and no defined objective"
+            ],
+            "correct_answer": "B) Has well defined boundaries, uses finite resources, and has distinct start and end dates",
+            "page_number": 2,
+            "topic": "Management"
+        },
+        {
+            "question": "What is a project plan in the context of project management?",
+            "options": [
+                "A) It is a final, irrevocable document used to guide the project.",
+                "B) It is a verbal agreement between the project team members.",
+                "C) It is a formally approved document used to manage and control a project.",
+                "D) It is a textual document providing the project's technical details."
+            ],
+            "correct_answer": "C) It is a formally approved document used to manage and control a project.",
+            "page_number": 3,
+            "topic": "Management"
+        },
+        {
+            "question": "According to the context, which of the following best defines a project?",
+            "options": [
+                "A) An ongoing effort that broadly addresses business objectives.",
+                "B) An approach to managing activities that embraces change and complexity.",
+                "C) A task with a well-defined goal and a planned completion date.",
+                "D) A permanent endeavor undertaken to keep functions ongoing in the organization."
+            ],
+            "correct_answer": "C) A task with a well-defined goal and a planned completion date.",
+            "page_number": 1,
+            "topic": "Dilla University"
+        },
+        {
+            "question": "What are some key characteristics of a project as taught at Dilla University?",
+            "options": [
+                "A) A project has no boundaries and unlimited resources.",
+                "B) A project does not have a specific start and end date.",
+                "C) A project has a specific objective, uses various resources, and has a defined start and expected completion date.",
+                "D) A project does not require a manager and can be carried out without a plan."
+            ],
+            "correct_answer": "C) A project has a specific objective, uses various resources, and has a defined start and expected completion date.",
+            "page_number": 2,
+            "topic": "Dilla University"
+        },
+        {
+            "question": "What is a Project Plan according to Dilla University's Project Planning and Management course?",
+            "options": [
+                "A) A document stating the project's budget only",
+                "B) A short and simple document outlining only the tasks that need to be carried out",
+                "C) A static document that should remain unchanged throughout the project duration",
+                "D) A formal, approved document used to manage and control a project, which may change over time"
+            ],
+            "correct_answer": "D) A formal, approved document used to manage and control a project, which may change over time",
+            "page_number": 3,
+            "topic": "Dilla University"
+        },
+        {
+            "question": "What distinguishes a project from regular ongoing operations or a program?",
+            "options": [
+                "A) A project has a less specific goal",
+                "B) A project has a set beginning and end time",
+                "C) A project involves less number of activities",
+                "D) A project involves routine tasks"
+            ],
+            "correct_answer": "B) A project has a set beginning and end time",
+            "page_number": 1,
+            "topic": "accomplishing"
+        },
+        {
+            "question": "What are some key characteristics of a project?",
+            "options": [
+                "A) It does not have a specific objective, resources are unlimited and it doesn't have s start or end date",
+                "B) It has a specific objective, uses various resources for its tasks, has a definitive start date and an expected completion date",
+                "C) It is an ongoing effort without distinct start and end dates",
+                "D) It doesn't require a manager for its outcomes"
+            ],
+            "correct_answer": "B) It has a specific objective, uses various resources for its tasks, has a definitive start date and an expected completion date",
+            "page_number": 2,
+            "topic": "accomplishing"
+        },
+        {
+            "question": "What is included in the basic tasks of the planning process in project management?",
+            "options": [
+                "A) Estimating the resources required for each task, scheduling tasks, and defining the budget",
+                "B) Identifying the known risks, ensuring quality, and specifying requirements",
+                "C) Defining and sequencing tasks, identifying deliverables, and defining dependency relations between tasks",
+                "D) All of the above"
+            ],
+            "correct_answer": "D) All of the above",
+            "page_number": 3,
+            "topic": "accomplishing"
+        },
+        {
+            "question": "Which of the following best defines a project according to the context?",
+            "options": [
+                "A) A temporary process with a set of tasks and a budget to reach an objective.",
+                "B) A continuous, indefinite process that is part of the organization's normal function.",
+                "C) A daily activity with no clear start or end date.",
+                "D) A permanent system integral to an organization's structures."
+            ],
+            "correct_answer": "A) A temporary process with a set of tasks and a budget to reach an objective.",
+            "page_number": 1,
+            "topic": "managing activities"
+        },
+        {
+            "question": "What are essential characteristics of a project according to the given context?",
+            "options": [
+                "A) Undefined objective, limited resources, and an assigned project manager",
+                "B) Definitely start date and exact completion date, unlimited resources, and a unique nature",
+                "C) Unique nature, planned method to meet objectives, and certain start and end dates",
+                "D) Repeated efforts, interdependent tasks, and undefined boundaries"
+            ],
+            "correct_answer": "C) Unique nature, planned method to meet objectives, and certain start and end dates",
+            "page_number": 2,
+            "topic": "managing activities"
+        },
+        {
+            "question": "What is the purpose of a project plan in project management?",
+            "options": [
+                "A) To define the technical approach used to solve the problem",
+                "B) To provide a verbose textual document",
+                "C) To manage and control a project",
+                "D) To ensure completion within the given time frame"
+            ],
+            "correct_answer": "C) To manage and control a project",
+            "page_number": 3,
+            "topic": "managing activities"
+        },
+        {
+            "question": "Which of the following statements best defines a project in terms of Project Planning and Management?",
+            "options": [
+                "A) A project is a constant endeavor with no definite ending point.",
+                "B) A project is a unique product that is the same as the results of other functions of the organization.",
+                "C) A project is a permanent assemblage of key personnel set to accomplish broad, less specific business objectives.",
+                "D) A project is a temporary assemblage of key personnel designed to accomplish specific objectives with identifiable customers in mind."
+            ],
+            "correct_answer": "D) A project is a temporary assemblage of key personnel designed to accomplish specific objectives with identifiable customers in mind.",
+            "page_number": 1,
+            "topic": "temporary assemblage"
+        },
+        {
+            "question": "According to the provided text, which of the following is not a key characteristic of a project?",
+            "options": [
+                "A) A project is a one-time effort.",
+                "B) A project has no defined boundaries.",
+                "C) A project has distinct start and end dates.",
+                "D) A project has a manager responsible for its outcomes."
+            ],
+            "correct_answer": "B) A project has no defined boundaries.",
+            "page_number": 2,
+            "topic": "temporary assemblage"
+        },
+        {
+            "question": "What does a project plan typically include in its planning process?",
+            "options": [
+                "A) Define the technical approach, sequence of tasks, dependencies, resources required, schedule, budget, organization, known risks, quality assurance process, and process for controlling requirements.",
+                "B) Outlining the office politics and personal differences among team members.",
+                "C) Listing all the potential vendors and suppliers for the project.",
+                "D) Creating a detailed description of the end product of the project."
+            ],
+            "correct_answer": "A) Define the technical approach, sequence of tasks, dependencies, resources required, schedule, budget, organization, known risks, quality assurance process, and process for controlling requirements.",
+            "page_number": 3,
+            "topic": "temporary assemblage"
+        },
+        {
+            "question": "What are some distinguishing features of a project as detailed in the Project Planning and Management from Dilla University?",
+            "options": [
+                "A) It is a permanent endeavor that provides continuous products or services.",
+                "B) It extends indefinitely, covering broad, non-specific business objectives.",
+                "C) It is a temporary process with a clearly defined start and end time, a set of tasks, and a budget to accomplish a well-defined goal.",
+                "D) It is a fixed routine with a daily set of tasks."
+            ],
+            "correct_answer": "C) It is a temporary process with a clearly defined start and end time, a set of tasks, and a budget to accomplish a well-defined goal.",
+            "page_number": 1,
+            "topic": "key personnel"
+        },
+        {
+            "question": "What are key characteristics of a project?",
+            "options": [
+                "A) A project is ongoing with undefined boundaries",
+                "B) A project does not need distinct start and end dates",
+                "C) A project is a series of tasks toward a specific outcome or goal and has a definite start and an expected completion date ",
+                "D) A project has unlimited resources"
+            ],
+            "correct_answer": "C) A project is a series of tasks toward a specific outcome or goal and has a definite start and an expected completion date",
+            "page_number": 2,
+            "topic": "key personnel"
+        },
+        {
+            "question": "What is a project plan in the context of project management at Dilla University?",
+            "options": [
+                "A) A document that defines the problem to be solved.",
+                "B) A document used to manage and control a project, subject to changes over time.",
+                "C) A document defining the resources required for the project.",
+                "D) A document listing all committed personnel to the project."
+            ],
+            "correct_answer": "B) A document used to manage and control a project, subject to changes over time.",
+            "page_number": 3,
+            "topic": "key personnel"
+        },
+        {
+            "question": "What is the most distinguishing feature of a project?",
+            "options": [
+                "A) It has a unique purpose",
+                "B) It involves a set of tasks",
+                "C) It has a specific time frame",
+                "D) It is developed to accomplish a well-defined goal"
+            ],
+            "correct_answer": "C) It has a specific time frame",
+            "page_number": 1,
+            "topic": "specific objectives"
+        },
+        {
+            "question": "What best describes the specific objectives within project planning and management?",
+            "options": [
+                "A) They are always flexible and open-ended",
+                "B) They are defined in terms of scope, schedule and cost",
+                "C) They do not have significant impact on the outcome of the project",
+                "D) They cannot be quantified in terms of resources and time"
+            ],
+            "correct_answer": "B) They are defined in terms of scope, schedule and cost",
+            "page_number": 2,
+            "topic": "specific objectives"
+        },
+        {
+            "question": "What is a Project Plan according to the context given in 'Project Planning and Management: Dilla University'?",
+            "options": [
+                "A) A simple memo for the project team",
+                "B) A formal, approved document used to manage and control a project",
+                "C) A sketch of project ideas",
+                "D) A final document that never changes"
+            ],
+            "correct_answer": "B) A formal, approved document used to manage and control a project",
+            "page_number": 3,
+            "topic": "specific objectives"
+        },
+        {
+            "question": "Which of the following is NOT a characteristic of a Project according to the provided context?",
+            "options": [
+                "A) Projects have a specific time frame with a beginning and an end.",
+                "B) Projects have a fixed budget and a set of tasks to accomplish a well-defined goal.",
+                "C) Projects are permanent assemblage of key personnel.",
+                "D) Projects result is different from the results of other functions of the organization."
+            ],
+            "correct_answer": "C) Projects are permanent assemblage of key personnel.",
+            "page_number": 1,
+            "topic": "identifiable customers"
+        },
+        {
+            "question": "Which of the following is not a key characteristic of a project according to the given context?",
+            "options": [
+                "A) A project has a beginning and an end.",
+                "B) Every project is unique.",
+                "C) A project has identifiable customers.",
+                "D) A project uses various resources to carry out tasks."
+            ],
+            "correct_answer": "C) A project has identifiable customers.",
+            "page_number": 2,
+            "topic": "identifiable customers"
+        },
+        {
+            "question": "What is the purpose of a project plan?",
+            "options": [
+                "A) To sell products to identifiable customers",
+                "B) To control and manage a project",
+                "C) To produce a product",
+                "D) To create a business model"
+            ],
+            "correct_answer": "B) To control and manage a project",
+            "page_number": 3,
+            "topic": "identifiable customers"
+        }
+    ]
+}
